@@ -2,7 +2,7 @@
 
 Code for the Paper: “Theoretical Guarantees for Sparse Graph Signal Recovery”
 
-This repository provides the codebase used to study the behavior of graph Laplacian mutual coherence over Erdős–Rényi and sensor graphs. It evaluates the accuracy of the upper and lower bounds proposed in [1] for the graph Laplacian mutual coherence. Results demonstrate the relationship between mutual coherence, its bounds, and the graph’s minimal degree, showing that an increased minimal graph degree reduces mutual coherence, as theoretically established in [1]. The repository also explores how these findings affect the sparse recovery performance of Orthogonal Matching Pursuit (OMP) and Lasso (￼ relaxation).
+This repository provides the codebase used to study the behavior of graph Laplacian mutual coherence over Erdős–Rényi and sensor graphs. It evaluates the accuracy of the upper and lower bounds proposed in [1] for the graph Laplacian mutual coherence. Results demonstrate the relationship between mutual coherence, its bounds, and the graph’s minimal degree, showing that an increased minimal graph degree reduces mutual coherence, as theoretically established in [1]. The repository also explores how these findings affect the sparse recovery performance of the Orthogonal Matching Pursuit (OMP) and Lasso methods.
 
 Reference
 
